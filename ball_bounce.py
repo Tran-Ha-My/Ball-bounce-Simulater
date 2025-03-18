@@ -2,6 +2,7 @@
 #It is also accompanied by elastic collission with walls and bottom of the container.
 import pygame,time,random
 # testing to commit
+# another comment
 pygame.init()
 
 #setting screen size of pygame window to 800 by 600 pixels
